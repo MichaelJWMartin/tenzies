@@ -1,0 +1,1 @@
+export { StyledParagraph } from './Paragraph';

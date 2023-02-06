@@ -1,0 +1,1 @@
+export { StyledDie } from './Die';
